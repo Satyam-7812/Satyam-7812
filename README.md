@@ -50,10 +50,18 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-7812&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-7812&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam-7812&show_icons=true&theme=default&locale=en" alt="Satyam Singh GitHub Stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-7812&" alt="GitHub Streak" /></p>
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-7812&theme=default" alt="Satyam Singh GitHub Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-7812&show_icons=true&locale=en&layout=compact" alt="Satyam Singh Top Languages" />
+
+</div>

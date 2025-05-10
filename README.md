@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
 <h3 align="center">Aspiring Data Analyst | MCA Graduate 2024 | Proficient in SQL, Excel, Python & Power BI</h3>
 
-<img align="right" alt="Data Analysis" width="400" src="[https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp?cid=ecf05e47yqz5d2dz7kzsizwl3slfl6z5mvcrgu7kfbpw0pzt&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N6dnltanZsNzNuNGNzZXZ2cjV2MnN3YzJxMHFkOWJ3MWdxNTVpcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bmQBu3aSF0DxadphkG/giphy.gif)">
-
+<img align="right" alt="Data Analysis" width="400" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp?cid=ecf05e47yqz5d2dz7kzsizwl3slfl6z5mvcrgu7kfbpw0pzt&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=satyam-7812&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-7812" /> 
 </p>
